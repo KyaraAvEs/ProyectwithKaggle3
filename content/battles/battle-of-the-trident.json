@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "name": "Battle of the Trident",
+    "location": "The Riverlands",
+    "result": "victory",
+    "involved_characters": [
+        {
+            "name": "Robert Baratheon",
+            "slug": "robert-baratheon"
+        },
+        {
+            "name": "Rhaegar Targaryen",
+            "slug": "rhaegar-targaryen"
+        }
+    ],
+    "houses": [
+        {
+            "name": "House Baratheon",
+            "slug": "house-baratheon"
+        },
+        {
+            "name": "House Targaryen",
+            "slug": "house-targaryen"
+        }
+    ],
+    "slug": "battle-of-the-trident",
+    "image": "battles/battle-of-the-trident.jpg"
+}

@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "name": "House Stark",
+    "motto": "Winter is Coming",
+    "region": "The North",
+    "allies": [
+        {
+            "name": "House Tully",
+            "slug": "house-tully"
+        },
+        {
+            "name": "House Arryn",
+            "slug": "house-arryn"
+        }
+    ],
+    "enemies": [
+        {
+            "name": "House Bolton",
+            "slug": "house-bolton"
+        },
+        {
+            "name": "House Lannister",
+            "slug": "house-lannister"
+        }
+    ],
+    "slug": "house-stark",
+    "image": "houses/house-stark.jpg"
+}

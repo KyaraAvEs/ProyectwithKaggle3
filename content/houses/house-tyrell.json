@@ -1,0 +1,20 @@
+{
+    "id": 5,
+    "name": "House Tyrell",
+    "motto": "Growing Strong",
+    "region": "The Reach",
+    "allies": [
+        {
+            "name": "House Baratheon",
+            "slug": "house-baratheon"
+        }
+    ],
+    "enemies": [
+        {
+            "name": "House Lannister",
+            "slug": "house-lannister"
+        }
+    ],
+    "slug": "house-tyrell",
+    "image": "houses/house-tyrell.jpg"
+}

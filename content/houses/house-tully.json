@@ -1,0 +1,20 @@
+{
+    "id": 4,
+    "name": "House Tully",
+    "motto": "Family, Duty, Honor",
+    "region": "The Riverlands",
+    "allies": [
+        {
+            "name": "House Stark",
+            "slug": "house-stark"
+        }
+    ],
+    "enemies": [
+        {
+            "name": "House Frey",
+            "slug": "house-frey"
+        }
+    ],
+    "slug": "house-tully",
+    "image": "houses/house-tully.jpg"
+}

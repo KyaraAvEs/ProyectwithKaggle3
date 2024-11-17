@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "name": "Winterfell",
+    "population": 50000,
+    "governor": {
+        "name": "Sansa Stark",
+        "slug": "sansa-stark"
+    },
+    "features": [
+        "Crypts of Winterfell",
+        "Hot Springs"
+    ],
+    "slug": "winterfell",
+    "image": "cities/winterfell.jpg"
+}

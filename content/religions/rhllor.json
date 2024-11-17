@@ -1,0 +1,17 @@
+{
+    "id": 3,
+    "name": "R'hllor",
+    "deity": "The Lord of Light",
+    "followers": [
+        {
+            "name": "Melisandre",
+            "slug": "melisandre"
+        },
+        {
+            "name": "Thoros of Myr",
+            "slug": "thoros-of-myr"
+        }
+    ],
+    "slug": "rhllor",
+    "image": "religions/rhllor.jpg"
+}

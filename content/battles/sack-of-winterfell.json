@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "name": "Sack of Winterfell",
+    "location": "Winterfell",
+    "result": "occupation",
+    "involved_characters": [
+        {
+            "name": "Theon Greyjoy",
+            "slug": "theon-greyjoy"
+        },
+        {
+            "name": "Ramsay Bolton",
+            "slug": "ramsay-bolton"
+        }
+    ],
+    "houses": [
+        {
+            "name": "House Greyjoy",
+            "slug": "house-greyjoy"
+        },
+        {
+            "name": "House Bolton",
+            "slug": "house-bolton"
+        }
+    ],
+    "slug": "sack-of-winterfell",
+    "image": "battles/sack-of-winterfell.jpg"
+}

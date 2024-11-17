@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "name": "Braavos",
+    "population": 300000,
+    "governor": {
+        "name": "Sea Lord Of Bravos",
+        "slug": "sea-lord-of-bravos"
+    },
+    "features": [
+        "Iron Bank",
+        "Titan of Braavos"
+    ],
+    "slug": "braavos",
+    "image": "cities/braavos.jpg"
+}

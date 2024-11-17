@@ -1,0 +1,17 @@
+{
+    "id": 4,
+    "name": "The Drowned God",
+    "deity": "The Drowned God",
+    "followers": [
+        {
+            "name": "Aeron Greyjoy",
+            "slug": "aeron-greyjoy"
+        },
+        {
+            "name": "Euron Greyjoy",
+            "slug": "euron-greyjoy"
+        }
+    ],
+    "slug": "the-drowned-god",
+    "image": "religions/the-drowned-god.jpg"
+}

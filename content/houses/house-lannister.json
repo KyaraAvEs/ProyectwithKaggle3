@@ -1,0 +1,24 @@
+{
+    "id": 3,
+    "name": "House Lannister",
+    "motto": "A Lannister Always Pays His Debts",
+    "region": "The Westerlands",
+    "allies": [
+        {
+            "name": "House Frey",
+            "slug": "house-frey"
+        }
+    ],
+    "enemies": [
+        {
+            "name": "House Stark",
+            "slug": "house-stark"
+        },
+        {
+            "name": "House Baratheon",
+            "slug": "house-baratheon"
+        }
+    ],
+    "slug": "house-lannister",
+    "image": "houses/house-lannister.jpg"
+}

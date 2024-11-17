@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Eddard Stark",
+    "role": "Warden of the North",
+    "status": "deceased",
+    "house": {
+        "name": "House Stark",
+        "slug": "house-stark"
+    },
+    "slug": "eddard-stark",
+    "image": "characters/eddard-stark.jpg"
+}

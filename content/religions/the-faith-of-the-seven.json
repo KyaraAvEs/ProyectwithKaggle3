@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "The Faith of the Seven",
+    "deity": "The Seven",
+    "followers": [
+        {
+            "name": "Cersei Lannister",
+            "slug": "cersei-lannister"
+        },
+        {
+            "name": "Margaery Tyrell",
+            "slug": "margaery-tyrell"
+        }
+    ],
+    "slug": "the-faith-of-the-seven",
+    "image": "religions/the-faith-of-the-seven.jpg"
+}

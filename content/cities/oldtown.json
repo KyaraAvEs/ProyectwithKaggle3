@@ -1,0 +1,15 @@
+{
+    "id": 5,
+    "name": "Oldtown",
+    "population": 120000,
+    "governor": {
+        "name": "Eddard Stark",
+        "slug": "eddard-stark"
+    },
+    "features": [
+        "The Citadel",
+        "Hightower"
+    ],
+    "slug": "oldtown",
+    "image": "cities/oldtown.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 5,
+    "name": "Olenna Tyrell",
+    "role": "Matriarch",
+    "status": "deceased",
+    "house": {
+        "name": "House Tyrell",
+        "slug": "house-tyrell"
+    },
+    "slug": "olenna-tyrell",
+    "image": "characters/olenna-tyrell.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 4,
+    "name": "Catelyn Stark",
+    "role": "Lady of Winterfell",
+    "status": "deceased",
+    "house": {
+        "name": "House Tully",
+        "slug": "house-tully"
+    },
+    "slug": "catelyn-stark",
+    "image": "characters/catelyn-stark.jpg"
+}

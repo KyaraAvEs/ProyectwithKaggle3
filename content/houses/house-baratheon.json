@@ -1,0 +1,20 @@
+{
+    "id": 2,
+    "name": "House Baratheon",
+    "motto": "Ours is the Fury",
+    "region": "Storm's End",
+    "allies": [
+        {
+            "name": "House Stark",
+            "slug": "house-stark"
+        }
+    ],
+    "enemies": [
+        {
+            "name": "House Targaryen",
+            "slug": "house-targaryen"
+        }
+    ],
+    "slug": "house-baratheon",
+    "image": "houses/house-baratheon.jpg"
+}

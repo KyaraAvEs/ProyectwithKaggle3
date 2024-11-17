@@ -1,0 +1,28 @@
+{
+    "id": 4,
+    "name": "Siege of Riverrun",
+    "location": "The Riverlands",
+    "result": "victory",
+    "involved_characters": [
+        {
+            "name": "Jaime Lannister",
+            "slug": "jaime-lannister"
+        },
+        {
+            "name": "Brynden Tully",
+            "slug": "brynden-tully"
+        }
+    ],
+    "houses": [
+        {
+            "name": "House Lannister",
+            "slug": "house-lannister"
+        },
+        {
+            "name": "House Tully",
+            "slug": "house-tully"
+        }
+    ],
+    "slug": "siege-of-riverrun",
+    "image": "battles/siege-of-riverrun.jpg"
+}

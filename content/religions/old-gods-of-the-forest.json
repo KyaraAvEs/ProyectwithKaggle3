@@ -1,0 +1,17 @@
+{
+    "id": 2,
+    "name": "Old Gods of the Forest",
+    "deity": "Nameless",
+    "followers": [
+        {
+            "name": "Bran Stark",
+            "slug": "bran-stark"
+        },
+        {
+            "name": "Jon Snow",
+            "slug": "jon-snow"
+        }
+    ],
+    "slug": "old-gods-of-the-forest",
+    "image": "religions/old-gods-of-the-forest.jpg"
+}

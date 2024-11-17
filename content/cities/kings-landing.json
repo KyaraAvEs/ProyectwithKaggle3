@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "name": "King's Landing",
+    "population": 1000000,
+    "governor": {
+        "name": "Cersei Lannister",
+        "slug": "cersei-lannister"
+    },
+    "features": [
+        "Red Keep",
+        "Great Sept of Baelor"
+    ],
+    "slug": "kings-landing",
+    "image": "cities/kings-landing.jpg"
+}

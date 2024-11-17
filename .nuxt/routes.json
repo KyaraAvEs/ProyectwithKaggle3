@@ -1,0 +1,121 @@
+[
+  {
+    "name": "battles_index",
+    "path": "/battles_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\battles_index.vue",
+    "chunkName": "pages/battles_index",
+    "_name": "_353e7403"
+  },
+  {
+    "name": "characters_index",
+    "path": "/characters_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\characters_index.vue",
+    "chunkName": "pages/characters_index",
+    "_name": "_28043b98"
+  },
+  {
+    "name": "cities_index",
+    "path": "/cities_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\cities_index.vue",
+    "chunkName": "pages/cities_index",
+    "_name": "_06dedb37"
+  },
+  {
+    "name": "directors_index",
+    "path": "/directors_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\directors_index.vue",
+    "chunkName": "pages/directors_index",
+    "_name": "_0ac5dd22"
+  },
+  {
+    "name": "houses_index",
+    "path": "/houses_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\houses_index.vue",
+    "chunkName": "pages/houses_index",
+    "_name": "_864e8e7e"
+  },
+  {
+    "name": "movies_index",
+    "path": "/movies_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\movies_index.vue",
+    "chunkName": "pages/movies_index",
+    "_name": "_951cd29e"
+  },
+  {
+    "name": "religions_index",
+    "path": "/religions_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\religions_index.vue",
+    "chunkName": "pages/religions_index",
+    "_name": "_5e128eaa"
+  },
+  {
+    "name": "studios_index",
+    "path": "/studios_index",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\studios_index.vue",
+    "chunkName": "pages/studios_index",
+    "_name": "_0bbfdc25"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_45070d87"
+  },
+  {
+    "name": "battles-slug",
+    "path": "/battles/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\battles\\\\_slug.vue",
+    "chunkName": "pages/battles/_slug",
+    "_name": "_2285f18a"
+  },
+  {
+    "name": "characters-slug",
+    "path": "/characters/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\characters\\\\_slug.vue",
+    "chunkName": "pages/characters/_slug",
+    "_name": "_ef0dc6d6"
+  },
+  {
+    "name": "cities-slug",
+    "path": "/cities/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\cities\\\\_slug.vue",
+    "chunkName": "pages/cities/_slug",
+    "_name": "_f61b1e54"
+  },
+  {
+    "name": "directors-slug",
+    "path": "/directors/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\directors\\\\_slug.vue",
+    "chunkName": "pages/directors/_slug",
+    "_name": "_08fb019e"
+  },
+  {
+    "name": "houses-slug",
+    "path": "/houses/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\houses\\\\_slug.vue",
+    "chunkName": "pages/houses/_slug",
+    "_name": "_e39776e8"
+  },
+  {
+    "name": "movies-slug",
+    "path": "/movies/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\movies\\\\_slug.vue",
+    "chunkName": "pages/movies/_slug",
+    "_name": "_ae91b6c8"
+  },
+  {
+    "name": "religions-slug",
+    "path": "/religions/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\religions\\\\_slug.vue",
+    "chunkName": "pages/religions/_slug",
+    "_name": "_14352bc3"
+  },
+  {
+    "name": "studios-slug",
+    "path": "/studios/:slug?",
+    "component": "C:\\\\Users\\\\kyara\\\\OneDrive\\\\Documentos\\\\GitHub\\\\ProyectwithKaggle3\\\\pages\\\\studios\\\\_slug.vue",
+    "chunkName": "pages/studios/_slug",
+    "_name": "_1c318da8"
+  }
+]

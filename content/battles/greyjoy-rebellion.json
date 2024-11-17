@@ -1,0 +1,28 @@
+{
+    "id": 3,
+    "name": "Greyjoy Rebellion",
+    "location": "The Iron Islands",
+    "result": "defeat",
+    "involved_characters": [
+        {
+            "name": "Balon Greyjoy",
+            "slug": "balon-greyjoy"
+        },
+        {
+            "name": "Eddard Stark",
+            "slug": "eddard-stark"
+        }
+    ],
+    "houses": [
+        {
+            "name": "House Greyjoy",
+            "slug": "house-greyjoy"
+        },
+        {
+            "name": "House Stark",
+            "slug": "house-stark"
+        }
+    ],
+    "slug": "greyjoy-rebellion",
+    "image": "battles/greyjoy-rebellion.jpg"
+}

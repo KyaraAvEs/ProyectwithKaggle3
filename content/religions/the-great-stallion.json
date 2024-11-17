@@ -1,0 +1,17 @@
+{
+    "id": 5,
+    "name": "The Great Stallion",
+    "deity": "The Great Stallion",
+    "followers": [
+        {
+            "name": "Khal Drogo",
+            "slug": "khal-drogo"
+        },
+        {
+            "name": "Daenerys Targaryen",
+            "slug": "daenerys-targaryen"
+        }
+    ],
+    "slug": "the-great-stallion",
+    "image": "religions/the-great-stallion.jpg"
+}

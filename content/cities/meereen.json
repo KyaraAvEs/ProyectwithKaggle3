@@ -1,0 +1,15 @@
+{
+    "id": 4,
+    "name": "Meereen",
+    "population": 150000,
+    "governor": {
+        "name": "Daenerys Targaryen",
+        "slug": "daenerys-targaryen"
+    },
+    "features": [
+        "Great Pyramid",
+        "Fighting Pits"
+    ],
+    "slug": "meereen",
+    "image": "cities/meereen.jpg"
+}

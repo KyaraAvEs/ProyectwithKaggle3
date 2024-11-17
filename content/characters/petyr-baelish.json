@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "name": "Petyr Baelish",
+    "house": {
+        "name": "House Stark",
+        "slug": "house-stark"
+    },
+    "role": "Master of Coin",
+    "status": "deceased",
+    "slug": "petyr-baelish",
+    "image": "characters/petyr-baelish.jpg"
+}

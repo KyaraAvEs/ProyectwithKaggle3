@@ -1,0 +1,28 @@
+{
+    "id": 2,
+    "name": "Red Wedding",
+    "location": "The Twins",
+    "result": "massacre",
+    "involved_characters": [
+        {
+            "name": "Walder Frey",
+            "slug": "walder-frey"
+        },
+        {
+            "name": "Robb Stark",
+            "slug": "robb-stark"
+        }
+    ],
+    "houses": [
+        {
+            "name": "House Frey",
+            "slug": "house-frey"
+        },
+        {
+            "name": "House Stark",
+            "slug": "house-stark"
+        }
+    ],
+    "slug": "red-wedding",
+    "image": "battles/red-wedding.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "name": "Robert Baratheon",
+    "role": "King of Westeros",
+    "status": "deceased",
+    "house": {
+        "name": "House Baratheon",
+        "slug": "house-baratheon"
+    },
+    "slug": "robert-baratheon",
+    "image": "characters/robert-baratheon.jpg"
+}
